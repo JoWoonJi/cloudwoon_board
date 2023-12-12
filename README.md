@@ -4,8 +4,6 @@ GitHub repository
 
 [https://github.com/JoWoonJi/cloudwoon_board/](https://github.com/JoWoonJi/cloudwoon_board/)
 
-링크 [https://github.com/JoWoonJi/cloudwoon_board/](https://github.com/JoWoonJi/cloudwoon_board/)
-
 아이디어 정리
 
 - [x]  DB 환경 구축 → xmapp 활용 apache, mysql  / dbconfig.php
